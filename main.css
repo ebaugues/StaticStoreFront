@@ -21,6 +21,7 @@ body {
     position: relative;
     left: 0px;    
     height: 850px;
+    border: solid;
 }
 
 h1 {
@@ -99,7 +100,7 @@ header {
     height: 100px; 
     border: solid;
     display: inline-block;
-    width: 1300px;
+    width: 1330px;
      }
 header h1 {
    font-family: 'Snell Roundhand', cursive;
